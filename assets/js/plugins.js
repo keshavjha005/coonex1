@@ -20,9 +20,9 @@
 // End Slicknav JS
 
 /*!
- * jQuery Smooth Scroll - v2.2.0 - 2017-05-05
+ * jQuery Smooth Scroll - v2.2.0 - 2024-05-05
  * https://github.com/kswedberg/jquery-smooth-scroll
- * Copyright (c) 2017 Karl Swedberg
+ * Copyright (c) 2024 Karl Swedberg
  * Licensed MIT
  */
 

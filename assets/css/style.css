@@ -2901,6 +2901,7 @@ address strong, address b {
     border-radius: 50%;
     display: block;
     text-align: center;
+    align-items: center;
     font-weight: 700;
     font-family: "Droid Serif";
     color: #202020;
